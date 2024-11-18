@@ -208,21 +208,3 @@ Install all dependencies by running:
 pip install -r requirements.txt
 ```
 
----
-
-## Loom Video Walkthrough
-A brief Loom video has been provided, explaining the following:
-- The overall purpose and capabilities of the project.
-- A walkthrough of the Streamlit dashboard and its key features.
-- Explanation of important code implementations and challenges faced.
-- link: "https://www.loom.com/share/3b74be3c98f04ccf811ad3688b97a188?sid=30c18683-8924-4e72-98bf-ed86a8572fad"
-
----
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-### Adjustments Made:
-- I corrected the **Usage** section’s formatting issue.
-- The document maintains proper Markdown syntax to ensure that everything is correctly formatted, especially the headings and code blocks.
